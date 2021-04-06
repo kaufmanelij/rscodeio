@@ -6,7 +6,7 @@ QMenuBar {
 }
 
 QMenuBar::item {
-  padding: 0 8px;
+  padding: 0 4px;
 }
 
 QMenuBar::item:selected {
