@@ -6,7 +6,7 @@ QMenuBar {
 }
 
 QMenuBar::item {
-  padding: 0 4px;
+  padding: 0 8px;
 }
 
 QMenuBar::item:selected {
@@ -18,7 +18,7 @@ QMenu {
   background-color: rgb(37, 37, 37);
   color: rgb(204, 204, 204);
   font-size: 10px;
-  padding: 6.5px 0;
+  padding: 3px 0;
 }
 
 QMenu::item {
